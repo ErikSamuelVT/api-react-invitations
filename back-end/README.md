@@ -1,4 +1,4 @@
-# ***API NEXTIA***
+# ***API INVITATIONS***
 
 The API was created for authenticating users with **JWT** and register information in **Mongo Db**.
 
