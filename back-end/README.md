@@ -6,7 +6,7 @@ The API was created for authenticating users with **JWT** and register informati
 
 Clone repository
 ```shell
-git clone https://github.com/ErikVillarreal-bit/
+git clone https://github.com/ErikVillarreal-bit/api-react-invitations
 ```
 Install dependencies
 ```shell
@@ -14,7 +14,7 @@ npm install
 ```
 Get in the folder
 ```shell
-cd projectname
+cd api-react-invitations
 ```
 
 Configure .Env
